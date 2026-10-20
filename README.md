@@ -5,8 +5,8 @@ I work with products and technology, which is another way of saying that I spend
 ## My work revolves around :
 
 - Payments and financial products
-- Product thinking,solving problems
-- Platforms and the slow transformation of old systems
+- Making Product decisions, solving problems
+- Platforms and the MODERNIZATION of old systems
 - APIs, integrations
 - AI and what happens when machines become collaborators
 - Building things, partly to learn how they work
